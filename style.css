@@ -178,12 +178,6 @@ footer .copyright {
 .button > span {
 	vertical-align: middle;
 }
-.button.button--wapasha {
-	background: #37474f;
-	color: #fff;
-	-webkit-transition: background-color 0.3s, color 0.3s;
-	transition: background-color 0.3s, color 0.3s;
-}
 .button--wapasha.button--inverted {	box-shadow: 0px 0px 5px gray;
 	background: #55B57C;
 	color: white;
